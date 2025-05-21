@@ -1,9 +1,8 @@
-# 📦 Streamlit App Starter Kit 
+# smart order with AI 
 ```
 ⬆️ (Replace above with your app's name)
 ```
-
-Description of the app ...
+SAVE money and time with Automate AI 
 
 ## Demo App
 
