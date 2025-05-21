@@ -2,7 +2,7 @@
 ```
 ⬆️ (Replace above with your app's name)
 ```
-SAVE money and time with Automate AI 
+SAVE money and time with Automate AI order system
 
 ## Demo App
 
